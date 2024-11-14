@@ -1,20 +1,18 @@
-Hello World, I'm Aymen 👋
-I'm a Student and Developer!!
-✍ You can find my projects here.
-🔭 I’m currently working on Augmented Reality Navigation App.
-🌱 I’m currently learning C# and SQL server
-👯 I’m looking to collaborate on open source
-💬 Ask me about ... Anything
-⚡ Fun fact: I speak 3 languages ( English, Arabic, French)
+Hey there! 👋 I'm Aymen
+I'm a tech enthusiast and fifth-year engineering student at the Mediterranean Institute of Technology. I'm passionate about using technology to build solutions that make a difference, and I'm always on the lookout for exciting challenges and collaboration opportunities!
 
-As a third-year engineering student at the Mediterranean Institute of Technology, I have gained over 
-three years of experience in project management and oversight. I am proficient in various 
-programming languages such as Java, C, HTML, PHP, CSS, and the MERN stack. Additionally, I possess 
-skills in mobile development using Kotlin and React Native. I have an intermediate level of proficiency 
-in MySQL and MongoDB. Moreover, I am fluent in three languages: English, Arabic, and French. I am always 
-seeking new opportunities to learn and grow in my field, leveraging emerging technologies to drive impactful results. 
-Eager to contribute to cutting-edge projects and collaborate with like-minded professionals.
+🚀 Current Focus:
+I'm diving deep into Augmented Reality for navigation and experimenting with tools like Docker, Kubernetes, React, and React Native.
+🌱 Currently Learning: C#, SQL Server, and all things DevOps.
 
+💼 Experience:
+With over three years of project management and development experience, I'm skilled in Java, C, MERN stack, and mobile development with Kotlin and React Native. My toolkit also includes MySQL, MongoDB, and an ever-growing list of languages and frameworks.
 
-Languages and Tools:
-azure bash bootstrap c cassandra express java javascript kotlin mongodb mysql sqlServer nodejs postman python react reactnative redux C# .Net 
+🌍 Languages:
+I'm fluent in English, Arabic, and French, and love using my multilingual skills to connect with people around the world.
+
+🔧 Languages and Tools:
+Docker | Kubernetes | React | React Native | .NET | C# | Azure | Java | Python | Node.js | MongoDB | SQL | MySQL | MERN Stack | Postman | and more.
+
+💬 Let's Connect:
+Ask me anything, or let's collaborate on open-source projects!
