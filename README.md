@@ -59,12 +59,3 @@ I bridge the gap between **Full Stack Development** and **Artificial Intelligenc
 #### **📊 Intelligent Data Scraper**
 *   **Tech:** Scrapy, Selenium, TF-IDF, LLM Integration.
 *   **Impact:** Developed a scraping engine with **LLM filtering** to enhance bid data relevance for procurement.
-
----
-
-### 📈 **GitHub Stats**
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aymenboch&show_icons=true&theme=radical&hide_border=true" alt="Aymen's Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aymenboch&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
