@@ -9,7 +9,7 @@ I bridge the gap between **Full Stack Development** and **Artificial Intelligenc
 ---
 
 ### 🚀 **About Me**
-- 🔭 I’m currently working as a **Software Engineer at Algovita**, building unified CRM architectures.
+- 🔭 I’m currently working as a **Software Engineer**, building unified CRM architectures.
 - 🧠 I recently engineered an **LLM-driven AIOps platform** utilizing Google Gemini and Prometheus.
 - 👯 I’m looking to collaborate on **GenAI agents** and **Cloud-Native** projects.
 - ⚡ Fun fact: I utilize Computer Vision to detect facial imperfections in mobile apps!
